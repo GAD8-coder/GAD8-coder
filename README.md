@@ -1,4 +1,5 @@
 ## Hi there 👋
+GAD8-coder here to bring transgenerational impact to the Tech world
 
 <!--
 **GAD8-coder/GAD8-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
