@@ -2,7 +2,7 @@
 GAD8-coder here to bring transgenerational impact to the Tech world
 
 ## 🎓ABOUT ME
-🍳I'm a first year computer Science student in Central University in Ghana.
+🍳I'm a first year computer Science student in Central University, Ghana.
 ⚡I'm currently building my foundation in programming
 🌱I'm passionate about using technology to solve challenges
 🏁MY GOAL: Is to become a proficient ML Engineer
