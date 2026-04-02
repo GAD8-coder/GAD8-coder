@@ -1,5 +1,5 @@
 ## Hi there 👋
-GAD8-coder here to bring transgenerational impact to the Tech world
+Dominic Gyamfi Atakplai here to bring transgenerational impact to the Tech world
 
 ## 🎓ABOUT ME
 🍳I'm a first year computer Science student in Central University, Ghana.
